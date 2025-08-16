@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thomas-Lohith
-- 👀 I’m interested in Artificial Intelligence & Robotics
+- 👀 I’m interested in   Applied machine Learning
 - 🌱 I’m currently doing PhD in Computer Science
 - 💞️ I’m looking to collaborate on any open projects related to data science, AI, ML, Robotics
 - 📫 How to reach me - web: www.thomasrouthu.com email: thomas.routhu@gmail.com
